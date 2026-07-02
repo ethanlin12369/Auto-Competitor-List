@@ -1,5 +1,10 @@
 # Competitor Change Log
 
+## 2026-07-02
+
+### Fetch problems (page unreachable — possible outage, block, or site redesign)
+- SERSitive: https://sersitive.eu/shop/ (Error)
+
 Newest entries at the top. Each entry is written automatically by the daily check.
 For the full detail of any change, open the matching commit in the repository history.
 

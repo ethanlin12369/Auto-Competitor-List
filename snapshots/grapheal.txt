@@ -1,0 +1,196 @@
+### https://grapheal.com/
+VISION
+INDUSTRIES
+EXPERTISE
+PRODUCTS
+TEAM
+PARTNERS
+NEWS
+CONTACT
+Graphene flexible films for Sensing & Printed Electronics
+Grapheal realizes flexible graphene sensors, digital by design, minimalistic in components, with capabilities to detect and dose analytes with a simple smartphone. By mastering the entire value chain, from the synthesis of high-quality, low-cost monolayer graphene, to the analysis of digital data, Grapheal is determined to democratize the use of this new, eco-friendly and safe material worldwide, bringing to market disruptive and sustainable solutions for battery-free, sensitive and responsive digital sensors.
+READ ON
+What is graphene?
+Graphene is an atomically-thin layer of graphitic carbon that offers a never seen before combination of properties, enabling new possibilities in terms of design and functionality.
+Conductive
+Transparent
+Flexible
+Graphene
+Bio-Compatible
+What’s wrong with silicon?
+The production of current silicon sensors is still complex and costly, making them unfit for the future consumer IoT.
+Rigid, brittle and opaque
+Batch-processed Clean-room operated
+High Cost per sensor Not suitable for single-use
+Large carbon footprint for silicon refinement & foundry
+Silicon-based sensors
+Grapheal sensors
+Soft, flexible and transparent
+Processable in any environment & compatible with roll-to-roll printed electronics at a fraction of the cost of Graphene/silicon devices
+Low cost sensor suitable for single use disposable product as well as long use sensors
+A fraction of the CO2 footprint of silicon
+2130.0 kWh/kg
+is consumed
+during the manufacturing process of silicon wafers
+60.0 %
+is wasted
+during the manufacturing process of silicon wafers
+Graphene is the next-generation material for sensing.
+Awarded the Nobel Prize in 2010, graphene has given rise to a new field of science (2D nanoelectronics) which is already opening up astonishing new possibilities for a frugal and revolutionary technology. As a two-dimensional, i.e. a volume-less material, electrical currents are forced to flow across graphene surface, optimizing their coupling with the environment, leading to high-precision, versatile sensors that can accurately target trace levels of multiple analytes such as contaminants or pathogens simultaneously.
+It only needs
+few resources
+to produce
+It requires very
+low energy
+to operate
+It needs fewer
+components
+to operate
+It's connected
+wirelessly
+Your industry could benefit from it
+Virtually any industry where field analytics and diagnostics are key, and current IoT solutions are either not suitable or not economically or environmentally viable.
+Agri-food
+Renewable Energies
+Security & Law Enforcement
+Sports & Wellness
+Veterinary
+Healthcare
+Our expertise
+Resulting from more than two decades of know-how in design and fabrication of Quantum Molecular Devices, our R&D team has developed a proprietary technology backed by strong international IP (22+ patents). Our tech is ready to scale.
+Chemical sensitive layer
+Graphene production & integration
+Embedded electronics
+RFID / NFC + UHF
+IoT / Mobile App & Cloud
+A cutting-edge technology
+Graphene on polymer
+Monolayer graphene is functionalized to become sensitive to a specific target. Then, when it detects changes in the target, its electric conductivity is modified.
+Electrodes
+The printed electrodes detect this change of conductivity
+and translate it into an electrical analog current signal.
+System-on-Chip (SoC)
+The System-on-Chip computes the sensors signals: it makes
+the data digital and store them.
+Antenna
+The antenna enables wireless communication
+& harvest energy to power the sensors.
+A large detection spectrum enabling
+wide multi-probes analytical analyses
+Functionalizing graphene with specific receptors allows to target specific biomarkers.
+Gases
+Ionic strength & pH
+Hormones & small molecules
+DNA
+Proteins & viruses
+Bacteria
+Grapheal is already working on POC products with industrial partners for each of these use cases. By manufacturing true monolayer graphene on flexible substrates, Grapheal enables next-generation sustainable and cost-effective sensor platforms especially when coupled with IOTs . Grapheal’s patented technology is expected to reduce sensor production cost by 10x and carbon footprint by 5x, thanks to unique materials, processes, and integration. Grapheal partners with industry leaders in their respective fields, such as wound care, wearable technology, and industry Sensors, to bring millions of new products to the market over the next years.
+In essence, Grapheal produces unique
+embedded, flexible and portable digital sensors
+Innovative Material
+Monolayer Graphene-on-polymer
+Excellent & stable sensing properties
+Low cost / High Value
+Biocompatible & non-invasive
+Roll-to-roll processable
+Embedded Electronics
+System-on-Chip & Antenna
+NFC & RFID protocols (encrypted, affordable, compatible with a wide range of devices)
+Energy harvesting
+Real-time & continuous data acquisition
+Available data storage
+Our products
+Discover our first products based on Grapheal's core technology.
+Polygraph
+High performance transparent conducting films based on monolayer graphene laminated on plastic films.
+Suitable for ITO replacement with numerous applications in Optoelectronics such as Photovoltaics, Smart windows, transparent sensors & flexible displays.
+Graphsensor
+RFID UHF gas & water sensors enable on-site detection of trace amounts of pollutants in gases and liquid phases, suitable for environment monitoring, pollution & leak detection as well as process monitoring.
+TestNpass
+Digital test strips delivering a multiplex, fast and sensitive biodetection for field tests & point-of-care diagnostics. Read more
+GraphSkin+WoundLAB
+Patches for sweat analysis & Smart bandages
+for continuous monitoring of
+wound healing. Read more.
+GraphLAB
+GraphLAB is a testing R&D Instrument dedicated for characterization of Graphene Biosensors. Read More
+Thanks to their embedded antenna & system on chip, Grapheal’s sensing line of products enables a seamless display of results and continuous data acquisition in real time & data logging with either local storage or streaming .
+Currently addressing use cases in three main industries
+ENVIRONMENT (AIR & WATER)
+RENEWABLE ENERGIES
+HEALTHCARE
+The team
+Grapheal gathers an experienced and cross-disciplinary team from bio to digital. As a spin-off from a leading research center, Grapheal has been founded by the researchers at the origin of the technology with a clear go-to-market vision.
+Executive & Management
+Vincent Bouchiat
+CEO, Co-founder & Chief Scientific Officer
+Behnaz Djoharian
+Co-founder & Chief Digital Officer
+Board of Directors
+Wim van Criekinge
+Co-founder of 6+ life science startups
+Philippe Andreucci
+Co-founder of APIX Analytics & CEO of InjectPower
+Jan van den Berghe
+Co-Founder of Novalis Bio-Tech
+R&D Team
+Mohamed Habib
+Immunoassays & Clinical studies
+Farshad Foroughi
+Electronics & Embedded systems
+Virginie Perrot
+Sensors
+Riadh Othmen
+Nanomaterials
+Kokoura Mensah
+Physico-chemistry
+Kouroche Bouchiat
+Data Science
+Our partners and supporters
+Grapheal is recognized as a leader by its peers and supported by a number of prestigious institutions. It is an alumni of prestigious incubator and accelerator program such as HEC Challenge+ , Mass Challenge and Creative Destruction Lab.
+News
+Latest news at Grapheal
+2026-06-08
+GRAPHEAL SECURES €2.5M FROM EIC ACCELERATOR PROGRAM TO DEVELOP FAST, FIELD-DEPLOYABLE GRAPHENE SENSORS FOR ULTRA-TRACE, REAL-TIME PFAS DETECTION
+PFAS, known as “forever chemicals,” are increasingly detected across the world and are to date impossible to detect in the field. Our device PFAST is the deep tech answer to this problem. This June marks for Grapheal , the kick-off month of the EIC Accelerator Grant from the European Innovation Council supporting PFAST. By enabling easy testing at point of need, our sensing platform could allow for more frequent PFAS monitoring as required by new 2026 EU Drinking Water Directive. See more
+2025-02-12
+Grapheal is awarded a France 2030 grant from ADEME for the development of water quality sensors
+We are pleased to announce that we have been awarded an INNOV'EAU project by ADEME, funded by hashtag#france2030 The project, coordinated by Grapheal, brings together our R&D teams with teams from CEA and Ifremer. It aims to develop, based on our TestNpass detection platform, a new bacterial and viral measurement chain in water that is faster and has a lower carbon footprint, intended for public and private managers of bathing water and the shellfish industry.
+2024-10-22
+Grapheal's Founders receive the Rocard Prize from the French Physical Society
+The Société Française de Physique has awarded the Rocard Prize to Grapheal for its “remarkable technology transfer between the Institut Néel and Grapheal, underlining the importance of the applications of these technologies in fast-growing markets”. The Yves Rocard Prize was founded in 1992 to reward successful technology transfer between an academic laboratory and a company. The prize ceremony award is scheduled on Oct. 31st, 2024 in Marseilles at the occasion of the 2024 Condensed Matter Physics Symposium.
+2024-04-17
+Grapheal & EDYTEM launch a portable sensor for PFAS detection in water
+Grapheal and EDYTEM laboratory fine-tune portable sensor for detecting water-borne PFASThis miniature sensor, developed by ‘Fluorograph’ joint laboratory, offer rapid on-site measurement of traces of ‘forever chemicals’, at values below European Union threshold. Read More.
+2023-11-30
+Grapheal showcases innovative sensor solutions at COP28 in the UAE.
+Grapheal is showcasing its wireless connected sensors solutions for air, water, and healthcare monitoring at the COP28 in the UAE. Read more.
+2023-11-29
+Khalifa University UAE Announces Partnership with Grapheal.
+Khalifa University of Science and Technology’s Research and Innovation Centers CMAT & RIC2D together with Grapheal today announced the first step of a strategic partnership to industrialize and commercialize graphene-based biosensors. Read More
+2023-10-17
+Grapheal joins EU project for Alzheimer's diagnostic breakthroughs.
+Grapheal is participating in a 6M€ research projet supported by the EU's Graphene Flagship for the realization of a novel diagnostic system for early Alzheimer's disease detection. Read more.
+2023-03-23
+Grapheal listed in Top 100 French Startups for Investment featured in in Challenges' magazine.
+Grapheal is selected by Challenges magazine in its 2023 ranking of the best French startups to invest in. Read more.
+2023-01-06
+Grapheal selected in LG NOVA's Mission for the Future Program
+Grapheal is among the 40 companies selected for Second Annual Mission for the Future Program organized by LG NOVA. Read more.
+Contact
+Feel free to leave us a message with any question you might have, we’ll get back to you ASAP.
+SEND MESSAGE
+Grapheal HQ & Graphene labs
+CNRS Néel Institute
+25 rue des Martyrs
+38042 GRENOBLE Cedex 09
+FRANCE
+info@grapheal.fr
+Tel: +33 (0) 4 56 38 70 74
+Tel: +33 (0) 4 57 42 25 96
+Grapheal Biolabs
+Biopolis
+5 avenue du Grand Sablon
+38700 La Tronche
+FRANCE
+Legal terms
