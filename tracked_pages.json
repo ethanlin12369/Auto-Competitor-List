@@ -1,0 +1,22 @@
+{
+  "description": "Competitor pages checked daily by GitHub Actions. To add/remove a competitor, edit this list. 'slug' is the snapshot filename.",
+  "companies": [
+    {"name": "Silmeco", "slug": "silmeco", "urls": ["https://silmeco.com/products/", "https://silmeco.com/p/gold-serstrate/"]},
+    {"name": "SERSitive", "slug": "sersitive", "urls": ["https://sersitive.eu/shop/"]},
+    {"name": "Nikalyte", "slug": "nikalyte", "urls": ["https://www.nikalyte.com/sers-substrates-new/"]},
+    {"name": "CODIXX (senSERS)", "slug": "codixx", "urls": ["https://www.codixx.de/en/"]},
+    {"name": "HORIBA", "slug": "horiba", "urls": ["https://www.horiba.com/usa/scientific/products/detail/action/show/Product/sers-substrates-1-6574/"]},
+    {"name": "Thorlabs (RCT4M)", "slug": "thorlabs", "urls": ["https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M"]},
+    {"name": "Metrohm m-oem (P-SERS)", "slug": "metrohm", "urls": ["https://m-oem.myshopify.com/pages/sers-substrates"]},
+    {"name": "Ocean Optics", "slug": "oceanoptics", "urls": ["https://www.oceanoptics.com/accessories/sampling-accessories/sers-substrates/"]},
+    {"name": "Nefer Ka", "slug": "neferka", "urls": ["https://neferkallc.com/sers-substrates/"]},
+    {"name": "Wave Lumina", "slug": "wavelumina", "urls": ["https://wavelumina.com/"]},
+    {"name": "StellarNet", "slug": "stellarnet", "urls": ["https://www.stellarnet.us/spectrometers-accessories/sers-substrates/"]},
+    {"name": "Real-Time Analyzers", "slug": "rta", "urls": ["https://www.rta.biz/products/sers-products/"]},
+    {"name": "S.T. Japan", "slug": "stjapan", "urls": ["https://www.stjapan.de/products-1/accessories/raman-sers-substrates/"]},
+    {"name": "SI Scientific Instruments", "slug": "si-gmbh", "urls": ["https://www.si-gmbh.de/en/produkte/spektrometer/substrate/sers/"]},
+    {"name": "Insplorion", "slug": "insplorion", "urls": ["https://www.insplorion.com/en/"]},
+    {"name": "Grapheal", "slug": "grapheal", "urls": ["https://grapheal.com/"]},
+    {"name": "PureTrace Labs", "slug": "puretrace", "urls": ["https://www.puretracelabs.com/"]}
+  ]
+}
