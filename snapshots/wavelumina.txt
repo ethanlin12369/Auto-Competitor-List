@@ -89,3 +89,87 @@ PFAS FIELD SCREENING
 WHITEPAPER
 FAQ
 CONTACT
+
+### https://wavelumina.com/pfas-field-screening
+THE PFAS PROBLEM
+TECHNOLOGY
+PFAS FIELD SCREENING
+WHITEPAPER
+FAQ
+JOIN THE PILOT
+ON-SITE PFAS FIELD SCREENING
+Quantitative PFAS results on-site, in minutes — not weeks
+Wave Lumina is building a field-ready SERS sensor that gives environmental consultants and remediation teams decision-ready PFAS screening right at the sample point — so you can triage sites, prioritize sampling, and move remediation forward without waiting on the lab queue.
+JOIN THE PILOT PROGRAM
+SEND IN A SAMPLE
+NSF SBIR PHASE I
+ACTIVATE FELLOW '25
+U.S. PATENT 12,644,842
+GREAT LAKES INNOVATION AWARD
+LAUNCHING 2027
+THE PROBLEM
+Lab cycles measured in weeks stall remediation decisions
+PFAS testing today means collecting samples, shipping them to a lab, and waiting. For the consultants and site owners who have to keep projects moving, that lag is where schedules slip and budgets balloon.
+Weeks of lab turnaround
+Samples ship off-site and sit in a queue. Decisions about where to dig, what to sample next, and how to scope remediation stall while you wait for results to come back.
+Costly, low-resolution sampling
+Per-sample lab costs force teams to test sparingly, leaving contamination maps coarse and uncertain — and often triggering expensive return trips to the field.
+No real-time triage
+Without on-site numbers, crews can't adapt while they're standing on the site. Hot spots get missed and clean zones get over-sampled, inflating project budgets.
+THE SOLUTION
+A field-ready SERS sensor built for real-time PFAS triage
+Wave Lumina pairs in-field liquid-liquid extraction with surface-enhanced Raman spectroscopy (SERS) to turn a few milliliters of water into a quantitative PFAS screen — at the site, in minutes, with performance benchmarked against the lab.
+Results in ~20 minutes, on-site
+Run the workflow at the sample point and get a decision-ready PFAS measurement before you leave the site — no shipping, no chain-of-custody delay.
+Surfactant-class screening
+Instead of targeting only a handful of regulated compounds, the SERS sensor screens for PFAS-class surfactants — a wider net for finding contamination worth confirming.
+Lab-grade analytical performance
+Validated to ~300 ppt sensitivity with R² ≥ 0.98 linearity and 65–125% spike recovery in real groundwater, benchmarked against LC-MS/MS reference data.
+Total surfactant-class PFAS screening; not a certified regulatory method. Confirmatory laboratory analysis is required for regulatory reporting.
+HOW IT WORKS
+Lab-grade PFAS screening, run in the field
+Wave Lumina pairs liquid-liquid extraction with surface-enhanced Raman spectroscopy (SERS) to deliver quantitative PFAS screening in real groundwater — so finding contamination no longer means waiting weeks for a lab.
+Prep the water sample on-site
+Collect a few milliliters of water and run our liquid-liquid extraction chemistry right in the field — no shipping, no chain-of-custody delays.
+Load the SERS sensor
+The prepared extract is applied to a nanoparticle substrate engineered for surface-enhanced Raman spectroscopy of PFAS-class surfactants.
+Read results in ~20 minutes
+A Raman scan plus our analysis software returns a decision-ready PFAS measurement on the spot — so teams can prioritize sampling and triage while still in the field.
+VALIDATED PERFORMANCE
+Lab-grade analytical performance, field-deployable speed
+~20 min
+Decision-ready PFAS screening on-site — vs. days to weeks for lab turnaround.
+300 ppt
+Sub-ppb field sensitivity, benchmarked against LC-MS/MS reference data.
+R² ≥ 0.98
+Linearity in real groundwater, approaching EPA Method 1633A criteria.
+65–125%
+Spike recovery in real groundwater, within EPA 1633A acceptance criteria.
+Total surfactant-class PFAS screening; analytical performance as of Q1 FY26 and not a certified regulatory method. Confirmatory laboratory analysis is required for regulatory reporting.
+FREQUENTLY ASKED QUESTIONS
+Field screening, answered
+The questions consultants and remediation teams ask most before putting on-site PFAS screening to work.
+How fast is on-site PFAS screening compared with lab testing?
+Wave Lumina's field workflow returns a decision-ready PFAS measurement in roughly 20 minutes at the sample point. Conventional lab analysis means shipping samples off-site and waiting days to weeks for results — so on-site screening lets crews triage sites and prioritize sampling without stalling the project.
+Is field PFAS screening accurate?
+In real groundwater, the SERS-based method has demonstrated R² ≥ 0.98 linearity and 65–125% spike recovery — within EPA Method 1633A acceptance criteria and benchmarked against LC-MS/MS reference data. It is a quantitative screening tool, not a certified regulatory method; confirmatory laboratory analysis is still required for regulatory reporting.
+What is the detection limit?
+The sensor screens down to roughly 300 ppt (parts per trillion) for PFAS-class surfactants. For context, the EPA's 2024 enforceable drinking-water limit for PFOA and PFOS is 4.0 ppt, so field screening is designed to flag contamination worth confirming and to map relative hot spots, not to replace ultra-trace compliance analysis.
+Does on-site screening replace lab confirmation?
+No. Field screening is built for speed and triage: it tells you where PFAS contamination is concentrated so you can sample smarter and move remediation forward. Regulatory reporting and final compliance decisions still rely on accredited laboratory methods. Think of screening and lab analysis as complementary, not interchangeable.
+SEE ALL FAQS
+Join the pilot program
+We're accepting water samples from environmental professionals with paired lab analysis. Put field screening to the test on your own contaminated sites and help shape a tool built for the way you actually work.
+JOIN THE PILOT PROGRAM
+SEND IN A SAMPLE
+Field-ready sensor technology for rapid on-site PFAS screening in water — results in minutes, not weeks.
+COMPANY
+MISSION
+THE PFAS PROBLEM
+NEWS
+PRODUCT
+TECHNOLOGY
+PFAS FIELD SCREENING
+WHITEPAPER
+FAQ
+CONTACT

@@ -1,5 +1,15 @@
 # Competitor Change Log
 
+## 2026-07-06
+
+### [PFAS] Wave Lumina — page changed (https://wavelumina.com/)
+Lines starting with `-` were removed, `+` were added:
+- `+LAUNCHING 2027`
+- `+Validated to ~300 ppt sensitivity with R² ≥ 0.98 linearity and 65–125% spike recovery in real groundwater, benchmarked against LC-MS/MS reference data.`
+- `+Wave Lumina pairs liquid-liquid extraction with surface-enhanced Raman spectroscopy (SERS) to deliver quantitative PFAS screening in real groundwater — so finding contamination no longer means waiting weeks for a lab.`
+- `+R² ≥ 0.98`
+- `+In real groundwater, the SERS-based method has demonstrated R² ≥ 0.98 linearity and 65–125% spike recovery — within EPA Method 1633A acceptance criteria and benchmarked against LC-MS/MS reference data. It is a quantitative screening tool, not a certified regulatory method; confirmatory laboratory analysis is still required for regulatory reporting.`
+
 ## 2026-07-02
 
 ### Fetch problems (page unreachable — possible outage, block, or site redesign)
