@@ -60,9 +60,9 @@ Phone
 Tell us about your application
 CAPTCHA
 New Customer Apps
-Energy-Harvesting Asymmetry in Semitransparent Polymer Solar-Cells Based on a Laminated Transparent Electrode
-Jul 6, 2026
-Changhun Yun; Moon Hee Kang Abstract Semitransparent polymer solar cells (ST-PSCs) with laminated transparent electrodes are promising candidates for building-integrated photovoltaics. However, the optical mechanisms governing their bidirectional performance remain...
+Broadband reflective circular dichroism in the visible-light region from an aluminum chiral metasurface fabricated with a lift-off-free double-layer structure
+Jul 7, 2026
+Atsushi Motogaito, Ryune Fukushi, Yoshiki Takeshima, Kotaro Ito, Takeshi Kato & Kazumasa Hiramatsu Abstract We experimentally and numerically investigate an aluminum (Al) chiral metasurface exhibiting broadband reflective circular dichroism (RCD) in the visible....
 read more
 Follow Us
 Email *
