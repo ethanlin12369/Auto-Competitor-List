@@ -1,6 +1,6 @@
 # Ocean Optics
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories/sampling-accessories/sers-substrates/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories
 | Certifications | Corporate quality systems |
 | USP / Positioning | Affordable, mass-produced, long shelf-life (8 months); heat-sink design |
 | Notes | CONFIRMED ACTIVE Jul 2026 (V1 wrongly flagged discontinued); low-price well-distributed US rival |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories
 | Patents | Not stated |
 | Technical Notes | CONFIRMED ACTIVE Jul 2026 (colleague sheet marked discontinued - now corrected) |
 | Website | https://www.oceanoptics.com/accessories/sampling-accessories/sers-substrates/ |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |

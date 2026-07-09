@@ -1,6 +1,6 @@
 # CODIXX (senSERS)
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS. Tracked page(s): https://www.codixx.de/en/
 
 ## SERS list details
@@ -18,8 +18,8 @@ Appears on: SERS. Tracked page(s): https://www.codixx.de/en/
 | Certifications | Not stated |
 | USP / Positioning | Ag nanoparticles embedded in glass via ion-exchange = robust, long shelf-life |
 | Notes | German peer; SERS is side-line to colorPol polarizer business |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |

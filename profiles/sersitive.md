@@ -1,6 +1,6 @@
 # SERSitive
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 | Certifications | Not stated (verify) |
 | USP / Positioning | Aggressive price + hands-on technical support; hydrophilic/hydrophobic options |
 | Notes | Closest price competitor (entry ~EUR 23); competes on cost + service |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | €0.00; €23.00; €28.00; €50.00; €60.00; €35.00 |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 | Patents | 5 |
 | Technical Notes | Balances EF and affordability, targeting small labs |
 | Website | https://sersitive.eu |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | €0.00; €23.00; €28.00; €50.00; €60.00; €35.00 |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |

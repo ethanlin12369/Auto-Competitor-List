@@ -1,6 +1,6 @@
 # nanoSpec Technologies
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS. Tracked page(s): https://www.nanospec.tech/
 
 ## SERS list details
@@ -18,8 +18,8 @@ Appears on: SERS. Tracked page(s): https://www.nanospec.tech/
 | Certifications | Internal |
 | USP / Positioning | Reproducible plasmonic SERS substrates; batch-to-batch consistency (RamanEdge) |
 | Notes | THIS IS US - reference row. Tracks nanospec.tech so the team sees our own live site alongside competitors. |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |

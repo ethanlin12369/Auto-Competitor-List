@@ -1,6 +1,6 @@
 # StellarNet
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers-accessories/sers-substrates/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers
 | Certifications | n/a |
 | USP / Positioning | Lowest-cost, low-barrier entry option |
 | Notes | Price-floor reference (~EUR 5); site has anti-bot check |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK — minor edits |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers
 | Patents | Not stated |
 | Technical Notes | Budget-conscious, flexible SERS research |
 | Website | https://www.stellarnet.us/spectrometers-accessories/sers-substrates/ |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK — minor edits |

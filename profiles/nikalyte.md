@@ -1,6 +1,6 @@
 # Nikalyte
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrates-new/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrate
 | Certifications | Not stated |
 | USP / Positioning | Contamination-free vacuum nanoparticles, no drying, field-ready, low cost |
 | Notes | Low-cost field player actively pushing into PFAS/environmental |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | £0.00 |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
 
 ## PFAS list details
 
@@ -39,8 +39,8 @@ Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrate
 | Positioning vs LC-MS/MS | Field-ready substrate for PFAS screening workflows |
 | Stage | Emerging |
 | Notes | Actively markets into PFAS at the substrate layer; also on SERS list |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | £0.00 |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |

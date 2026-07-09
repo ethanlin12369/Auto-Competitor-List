@@ -1,6 +1,6 @@
 # Silmeco
 
-*Auto-generated profile — last updated 2026-07-02.*
+*Auto-generated profile — last updated 2026-07-09.*
 Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, https://silmeco.com/p/gold-serstrate/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Certifications | ISO 9001 |
 | USP / Positioning | Self-described market leader; high uniformity, low background, reproducible high-volume process; 200+ publications |
 | Notes | The benchmark to beat - reproducibility is their headline claim too |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
 
 ## PFAS list details
 
@@ -39,11 +39,11 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Positioning vs LC-MS/MS | Supplies substrates rather than screening |
 | Stage | Established |
 | Notes | Upstream supplier for PFAS-SERS R&D; also core-substrate rival (see SERS list) |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -56,8 +56,8 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Patents | Not stated |
 | Technical Notes | High EF due to consistent nanostructure quality |
 | Website | https://silmeco.com |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-09 |
+| Page Status | OK |
