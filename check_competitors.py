@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
-"""Daily competitor website checker for nanoSpec (v2).
+"""Daily competitor website checker for nanoSpec (v3).
 
 Fetches each page in tracked_pages.json with a headless browser, saves the
 visible text to snapshots/, and updates:
-  - competitor_list.csv        (SERS-substrate competitors)
+  - competitor_list.csv        (SERS-substrate competitors, incl. nanoSpec)
   - pfas_competitor_list.csv   (PFAS rapid-screening competitors)
+  - technical_comparison.csv   (technical/science comparison)
+  - profiles/<slug>.md         (one auto-regenerated profile per competitor)
   - CHANGELOG.md               (plain-English change entries)
 
-Auto-updated CSV columns: Prices Seen on Page, Stock Alerts,
+Auto-updated columns in every CSV: Prices Seen on Page, Stock Alerts,
 Last Change Detected, Last Checked, Page Status.
 
 Run by GitHub Actions (see .github/workflows/daily-check.yml).
@@ -19,9 +21,18 @@ from playwright.sync_api import sync_playwright
 
 ROOT = pathlib.Path(__file__).parent
 SNAP = ROOT / "snapshots"
+PROFILES = ROOT / "profiles"
 SNAP.mkdir(exist_ok=True)
+PROFILES.mkdir(exist_ok=True)
 
-CSV_FOR_LIST = {"sers": "competitor_list.csv", "pfas": "pfas_competitor_list.csv"}
+# list-key -> CSV filename
+CSV_FOR_LIST = {
+    "sers": "competitor_list.csv",
+    "pfas": "pfas_competitor_list.csv",
+    "tech": "technical_comparison.csv",
+}
+AUTO_COLS = ["Prices Seen on Page", "Stock Alerts", "Last Change Detected",
+             "Last Checked", "Page Status"]
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36")
@@ -54,7 +65,6 @@ def clean(text: str) -> str:
 
 
 def page_signals(text: str) -> tuple[str, str]:
-    """Extract every price and every stock-alert keyword visible on the page."""
     prices = []
     for m in PRICE_RE.findall(text):
         m = re.sub(r"\s+", " ", m).strip().rstrip(".,")
@@ -98,11 +108,17 @@ def write_changelog(today: str, changes, failures) -> None:
     path.write_text(head + "\n\n" + "\n".join(entry) + rest, encoding="utf-8")
 
 
-def update_csv(fname: str, today: str, results, signals, changed) -> None:
+def read_csv(fname):
     path = ROOT / fname
     if not path.exists():
+        return None
+    return list(csv.DictReader(path.open(encoding="utf-8")))
+
+
+def update_csv(fname, today, results, signals, changed) -> None:
+    rows = read_csv(fname)
+    if rows is None:
         return
-    rows = list(csv.DictReader(path.open(encoding="utf-8")))
     for r in rows:
         name = r["Company"]
         if name not in results:
@@ -114,10 +130,35 @@ def update_csv(fname: str, today: str, results, signals, changed) -> None:
             r["Stock Alerts"] = alerts or "-"
         if name in changed:
             r["Last Change Detected"] = today
-    with path.open("w", newline="", encoding="utf-8") as fh:
+    with (ROOT / fname).open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0].keys()))
         w.writeheader()
         w.writerows(rows)
+
+
+def generate_profiles(cfg, today) -> None:
+    """Regenerate profiles/<slug>.md — one self-contained file per competitor."""
+    data = {k: (read_csv(f) or []) for k, f in CSV_FOR_LIST.items()}
+    for comp in cfg["companies"]:
+        name, slug = comp["name"], comp["slug"]
+        md = [f"# {name}", "", f"*Auto-generated profile — last updated {today}.*",
+              f"Appears on: {', '.join(l.upper() for l in comp['lists'])}. "
+              f"Tracked page(s): {', '.join(comp['urls'])}", ""]
+        for key in comp["lists"]:
+            row = next((r for r in data.get(key, []) if r["Company"] == name), None)
+            if not row:
+                continue
+            md.append(f"## {key.upper()} list details")
+            md.append("")
+            md.append("| Field | Value |")
+            md.append("|---|---|")
+            for col, val in row.items():
+                if col == "Company":
+                    continue
+                v = (val or "").replace("|", "\\|").strip() or "—"
+                md.append(f"| {col} | {v} |")
+            md.append("")
+        (PROFILES / f"{slug}.md").write_text("\n".join(md), encoding="utf-8")
 
 
 def main() -> None:
@@ -149,7 +190,7 @@ def main() -> None:
                 if old != new:
                     sig = significant_diff(old, new)
                     if sig:
-                        tags = "".join(f"[{l.upper()}]" for l in comp.get("lists", ["sers"]))
+                        tags = "".join(f"[{l.upper()}]" for l in comp.get("lists", []))
                         changes.append((name, tags, comp["urls"][0], sig))
                         changed.add(name)
                         results[name] += " — CHANGED"
@@ -161,6 +202,7 @@ def main() -> None:
     write_changelog(today, changes, failures)
     for fname in CSV_FOR_LIST.values():
         update_csv(fname, today, results, signals, changed)
+    generate_profiles(cfg, today)
     (ROOT / "last_run.txt").write_text(
         datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC") + "\n", encoding="utf-8")
     print(f"Checked {len(results)} companies: "
