@@ -1,5 +1,12 @@
 # Competitor Change Log
 
+## 2026-07-09
+
+### [SERS] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
+Lines starting with `-` were removed, `+` were added:
+- `-Price on request`
+- `-Price on request`
+
 ## 2026-07-06
 
 ### [PFAS] Wave Lumina — page changed (https://wavelumina.com/)

@@ -60,9 +60,9 @@ Phone
 Tell us about your application
 CAPTCHA
 New Customer Apps
-Broadband reflective circular dichroism in the visible-light region from an aluminum chiral metasurface fabricated with a lift-off-free double-layer structure
-Jul 7, 2026
-Atsushi Motogaito, Ryune Fukushi, Yoshiki Takeshima, Kotaro Ito, Takeshi Kato & Kazumasa Hiramatsu Abstract We experimentally and numerically investigate an aluminum (Al) chiral metasurface exhibiting broadband reflective circular dichroism (RCD) in the visible....
+Horizontally Aligned Dipole Emission through Solvent Controlled Fusing of Perovskite Nanocubes and Nanoplates into 1D Nanowires
+Jul 8, 2026
+Mounika Dudala, Leonna Gaither, Carissa N. Eisler Abstract Colloidal lead halide perovskite nanocrystals (NCs) are a promising class of materials for light-emitting applications, yet their external quantum efficiency in devices is limited by isotropic dipole...
 read more
 Follow Us
 Email *
