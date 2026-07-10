@@ -1,5 +1,17 @@
 # Competitor Change Log
 
+## 2026-07-10
+
+### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
+Lines starting with `-` were removed, `+` were added:
+- `+Price on request`
+- `+Price on request`
+
+### Fetch problems (page unreachable — possible outage, block, or site redesign)
+- Grapheal: https://grapheal.com/ (Error)
+- PureTrace Labs: https://www.puretracelabs.com/ (Error)
+- PureTrace Labs: https://www.puretracelabs.com/technology (Error)
+
 ## 2026-07-09
 
 ### [SERS] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
