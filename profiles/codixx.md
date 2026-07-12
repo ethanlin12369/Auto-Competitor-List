@@ -1,6 +1,6 @@
 # CODIXX (senSERS)
 
-*Auto-generated profile — last updated 2026-07-11.*
+*Auto-generated profile — last updated 2026-07-12.*
 Appears on: SERS. Tracked page(s): https://www.codixx.de/en/
 
 ## SERS list details
@@ -21,5 +21,5 @@ Appears on: SERS. Tracked page(s): https://www.codixx.de/en/
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-11 |
+| Last Checked | 2026-07-12 |
 | Page Status | OK |
