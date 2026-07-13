@@ -1,0 +1,34 @@
+name: Weekly digest email
+
+on:
+  schedule:
+    - cron: "0 7 * * 1"    # 07:00 UTC every Monday (~09:00 Berlin summer time)
+  workflow_dispatch:        # allows a manual "Run workflow" test send
+
+jobs:
+  email:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Get the repository files
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build the digest
+        run: python weekly_digest.py
+
+      - name: Send the digest email
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.MAIL_USERNAME }}
+          password: ${{ secrets.MAIL_PASSWORD }}
+          from: nanoSpec Competitor Tracker <${{ secrets.MAIL_USERNAME }}>
+          to: ${{ secrets.RECIPIENTS }}
+          subject: "nanoSpec Competitor Tracker — Weekly Digest"
+          html_body: file://digest.html
