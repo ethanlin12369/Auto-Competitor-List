@@ -1,6 +1,6 @@
 # Metrohm m-oem (P-SERS)
 
-*Auto-generated profile — last updated 2026-07-14.*
+*Auto-generated profile — last updated 2026-07-15.*
 Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-substrates
 
 ## SERS list details
@@ -20,8 +20,8 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Notes | Active line (NOT discontinued); direct competitor on strip-format SERS |
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
-| Last Change Detected | 2026-07-14 |
-| Last Checked | 2026-07-14 |
+| Last Change Detected | 2026-07-15 |
+| Last Checked | 2026-07-15 |
 | Page Status | OK — CHANGED |
 
 ## TECH list details
@@ -37,6 +37,6 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Website | https://m-oem.myshopify.com/pages/sers-substrates |
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
-| Last Change Detected | 2026-07-14 |
-| Last Checked | 2026-07-14 |
+| Last Change Detected | 2026-07-15 |
+| Last Checked | 2026-07-15 |
 | Page Status | OK — CHANGED |

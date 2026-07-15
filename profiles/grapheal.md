@@ -1,6 +1,6 @@
 # Grapheal
 
-*Auto-generated profile — last updated 2026-07-14.*
+*Auto-generated profile — last updated 2026-07-15.*
 Appears on: PFAS. Tracked page(s): https://grapheal.com/
 
 ## PFAS list details
@@ -21,5 +21,5 @@ Appears on: PFAS. Tracked page(s): https://grapheal.com/
 | Prices Seen on Page | €2.5 |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-14 |
+| Last Checked | 2026-07-15 |
 | Page Status | OK |
