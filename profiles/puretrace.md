@@ -1,6 +1,6 @@
 # PureTrace Labs
 
-*Auto-generated profile — last updated 2026-07-15.*
+*Auto-generated profile — last updated 2026-07-16.*
 Appears on: PFAS. Tracked page(s): https://www.puretracelabs.com/, https://www.puretracelabs.com/technology
 
 ## PFAS list details
@@ -21,5 +21,5 @@ Appears on: PFAS. Tracked page(s): https://www.puretracelabs.com/, https://www.p
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-15 |
+| Last Checked | 2026-07-16 |
 | Page Status | OK |

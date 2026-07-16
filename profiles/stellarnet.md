@@ -1,6 +1,6 @@
 # StellarNet
 
-*Auto-generated profile — last updated 2026-07-15.*
+*Auto-generated profile — last updated 2026-07-16.*
 Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers-accessories/sers-substrates/
 
 ## SERS list details
@@ -21,8 +21,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-15 |
-| Page Status | OK |
+| Last Checked | 2026-07-16 |
+| Page Status | OK — minor edits |
 
 ## TECH list details
 
@@ -38,5 +38,5 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stellarnet.us/spectrometers
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-15 |
-| Page Status | OK |
+| Last Checked | 2026-07-16 |
+| Page Status | OK — minor edits |

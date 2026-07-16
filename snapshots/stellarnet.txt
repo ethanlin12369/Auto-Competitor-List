@@ -60,9 +60,9 @@ Phone
 Tell us about your application
 CAPTCHA
 New Customer Apps
-Horizontally Aligned Dipole Emission through Solvent Controlled Fusing of Perovskite Nanocubes and Nanoplates into 1D Nanowires
-Jul 9, 2026
-G. G. Muley; Y. S. Tamgadge; P. P. Gedam; R. P. Ganorkar Abstract We report improved thermally stimulated third-order nonlinear optical coefficients (nonlinear refraction and nonlinear absorption) in thin films of Zn-doped CuS quantum dots (QDs) dispersed in a poly...
+Single Fiber vs. Linear Fiber Bundle for Spectroscopy | Light Throughput Comparison
+Jul 15, 2026
+Fiber optic cables are a critical component of spectroscopy systems - directly influencing signal strength, measurement repeatability, and overall system performance. Regardless of the measurement technique - reflectance, transmission, fluorescence, Raman...
 read more
 Follow Us
 Email *
