@@ -1,6 +1,6 @@
 # Thorlabs (RCT4M)
 
-*Auto-generated profile — last updated 2026-07-16.*
+*Auto-generated profile — last updated 2026-07-17.*
 Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M
 
 ## SERS list details
@@ -19,10 +19,10 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | USP / Positioning | Single-vendor convenience + enormous photonics customer base |
 | Notes | One token SERS SKU in a vast catalog; beatable on specialisation |
 | Prices Seen on Page | (none listed) |
-| Stock Alerts | discontinued; out of stock |
-| Last Change Detected | 2026-07-15 |
-| Last Checked | 2026-07-16 |
-| Page Status | OK |
+| Stock Alerts | - |
+| Last Change Detected | 2026-07-17 |
+| Last Checked | 2026-07-17 |
+| Page Status | OK — CHANGED |
 
 ## TECH list details
 
@@ -36,7 +36,7 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | Technical Notes | ~2 years in market; single SKU |
 | Website | https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M |
 | Prices Seen on Page | (none listed) |
-| Stock Alerts | discontinued; out of stock |
-| Last Change Detected | 2026-07-15 |
-| Last Checked | 2026-07-16 |
-| Page Status | OK |
+| Stock Alerts | - |
+| Last Change Detected | 2026-07-17 |
+| Last Checked | 2026-07-17 |
+| Page Status | OK — CHANGED |

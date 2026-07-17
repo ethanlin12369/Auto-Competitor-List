@@ -1,5 +1,20 @@
 # Competitor Change Log
 
+## 2026-07-17
+
+### [SERS][TECH] Thorlabs (RCT4M) — page changed (https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M)
+Lines starting with `-` were removed, `+` were added:
+- `-Discontinued`
+- `-RCT4M was discontinued on March 26, 2026.`
+- `-Discontinued Date`
+- `-USD`
+- `-is out of stock at our local warehouse but available at another location. Transfers between warehouses typically take 3-4 weeks.`
+
+### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
+Lines starting with `-` were removed, `+` were added:
+- `-Price on request`
+- `-Price on request`
+
 ## 2026-07-15
 
 ### [SERS][TECH] Thorlabs (RCT4M) — page changed (https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M)

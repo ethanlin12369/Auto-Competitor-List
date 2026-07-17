@@ -1,6 +1,6 @@
 # Nikalyte
 
-*Auto-generated profile — last updated 2026-07-16.*
+*Auto-generated profile — last updated 2026-07-17.*
 Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrates-new/
 
 ## SERS list details
@@ -21,8 +21,8 @@ Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrate
 | Prices Seen on Page | £0.00 |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-16 |
-| Page Status | OK |
+| Last Checked | 2026-07-17 |
+| Page Status | OK — minor edits |
 
 ## PFAS list details
 
@@ -42,5 +42,5 @@ Appears on: SERS, PFAS. Tracked page(s): https://www.nikalyte.com/sers-substrate
 | Prices Seen on Page | £0.00 |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-16 |
-| Page Status | OK |
+| Last Checked | 2026-07-17 |
+| Page Status | OK — minor edits |
