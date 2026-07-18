@@ -1,6 +1,6 @@
 # Nefer Ka
 
-*Auto-generated profile — last updated 2026-07-17.*
+*Auto-generated profile — last updated 2026-07-18.*
 Appears on: SERS. Tracked page(s): https://neferkallc.com/sers-substrates/
 
 ## SERS list details
@@ -21,5 +21,5 @@ Appears on: SERS. Tracked page(s): https://neferkallc.com/sers-substrates/
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-17 |
+| Last Checked | 2026-07-18 |
 | Page Status | OK — minor edits |

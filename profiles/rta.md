@@ -1,6 +1,6 @@
 # Real-Time Analyzers
 
-*Auto-generated profile — last updated 2026-07-17.*
+*Auto-generated profile — last updated 2026-07-18.*
 Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-products/
 
 ## SERS list details
@@ -21,7 +21,7 @@ Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-produ
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-17 |
+| Last Checked | 2026-07-18 |
 | Page Status | OK — minor edits |
 
 ## TECH list details
@@ -38,5 +38,5 @@ Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-produ
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-17 |
+| Last Checked | 2026-07-18 |
 | Page Status | OK — minor edits |
