@@ -1,5 +1,12 @@
 # Competitor Change Log
 
+## 2026-07-21
+
+### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
+Lines starting with `-` were removed, `+` were added:
+- `-Price on request`
+- `-Price on request`
+
 ## 2026-07-20
 
 ### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
