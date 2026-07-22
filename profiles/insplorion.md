@@ -1,6 +1,6 @@
 # Insplorion
 
-*Auto-generated profile — last updated 2026-07-21.*
+*Auto-generated profile — last updated 2026-07-22.*
 Appears on: SERS. Tracked page(s): https://www.insplorion.com/en/
 
 ## SERS list details
@@ -21,5 +21,5 @@ Appears on: SERS. Tracked page(s): https://www.insplorion.com/en/
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-21 |
+| Last Checked | 2026-07-22 |
 | Page Status | OK |

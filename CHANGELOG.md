@@ -1,5 +1,22 @@
 # Competitor Change Log
 
+## 2026-07-22
+
+### [PFAS] Wave Lumina — page changed (https://wavelumina.com/)
+Lines starting with `-` were removed, `+` were added:
+- `-LAUNCHING 2027`
+- `+R² ≥ 0.98`
+- `-$305K NSF SBIR Phase I award (Contract 2507556, 2025) to develop our portable PFAS field sensor.`
+- `-R² ≥ 0.98`
+- `-Wave Lumina screens for PFAS on real groundwater in the field today, gathering the validation data behind our 2027 device launch. This isn't a concept render — it's the workflow running where remediation decisions actually get made.`
+- `-Wave Lumina pairs liquid-liquid extraction with surface-enhanced Raman spectroscopy (SERS) to deliver quantitative PFAS screening in real groundwater — so finding contamination no longer means waiting weeks for a lab.`
+- `+$305K NSF SBIR Phase I award supporting development of the portable PFAS field sensor.`
+- `+Talk with Wave Lumina about field pilots, paired lab validation, or PFAS sample testing—and help shape the platform ahead of our planned 2027 launch.`
+- `-LAUNCHING 2027`
+- `-In real groundwater, the SERS-based method has demonstrated R² ≥ 0.98 linearity and 65–125% spike recovery — within EPA Method 1633A acceptance criteria and benchmarked against LC-MS/MS reference data. It is a quantitative screening tool, not a certified regulatory method; confirmatory laboratory analysis is still required for regulatory reporting.`
+- `+Real-groundwater validation testing has demonstrated approximately 300 ppt screening sensitivity, R² ≥ 0.98 linearity, and 65–125% spike recovery, benchmarked against LC-MS/MS reference data. The platform is a screening tool, not a certified regulatory method.`
+- `+Talk with Wave Lumina about field pilots, paired lab validation, or PFAS sample testing—and help shape the platform ahead of our planned 2027 launch.`
+
 ## 2026-07-21
 
 ### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)

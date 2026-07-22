@@ -1,6 +1,6 @@
 # Wave Lumina
 
-*Auto-generated profile — last updated 2026-07-21.*
+*Auto-generated profile — last updated 2026-07-22.*
 Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.com/pfas-field-screening
 
 ## PFAS list details
@@ -20,6 +20,6 @@ Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.c
 | Notes | MOST direct analogue to SpectraSense (same SERS+AI triage thesis); US-focused |
 | Prices Seen on Page | $305 |
 | Stock Alerts | - |
-| Last Change Detected | 2026-07-06 |
-| Last Checked | 2026-07-21 |
-| Page Status | OK |
+| Last Change Detected | 2026-07-22 |
+| Last Checked | 2026-07-22 |
+| Page Status | OK — CHANGED |
