@@ -37,7 +37,7 @@ Field-ready by design
 The workflow travels with the team and runs at the sample point.
 Validation in progress
 Screening results are compared with confirmatory laboratory analysis.
-FIELD VALIDATION RESULTS
+ANALYTICAL VALIDATION RESULTS
 Screening performance at a glance
 ~20 min
 To an on-site screening result, while the field team is still at the sample point.
