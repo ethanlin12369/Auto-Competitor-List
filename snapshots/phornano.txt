@@ -1,0 +1,68 @@
+### https://www.phornano.com/4n4sers
+Top of Page
+Overview
+Optical Properties
+Damage threshold
+Reproducibility
+Limit of Detection
+Order Information
+Home
+Contact 4n
+Health and 4n
+VERDEQUANT
+Technology
+Products
+Services
+Partners
+Legal
+Downloads
+Jobs
+4SERS
+Surface Enhanced Raman Scattering (SERS) became an even more powerful method for chemical and biological sensing applications. 4n introduces HIGH PERFORMANCE (HP) SERS using a unique SIGNAL ENHANCING HEAT SINK (SEHS). SERS is now an extemly effective and fast tool to detect molecules by efficiently enhancing the Raman signal from the analyte applied to the 4n4SERS substate.
+01 | SECURE | Robust and easy to use: The SIGNAL ENHANCING HEAT SINK protects the analyte from overheating The highest DAMAGE THRESHOLD among SERS substrates supports best results at high power levels from the Raman laser.
+02 | SENSITIVE | enhancement of the Raman signal for orders of magnitude:
+Distinct strong LOCALIZED SURFACE PLASMON RESONANCE (LSPR) effect of HighQuant nanoparticles in combination with high power levels from the Raman laser .
+03 | REPRODUCIBLE results gueranteed
+by the high quality of the nanoparticles utilized and a prolongued averaging time supported. The analyte remains protected from overheating due to the unique SIGNAL ENHANCING HEAT SINK technology.
+NEW 4n4SERS 4x4 = 16 x INCREASE in PERFORMANCE
+Figure 1 Due to the Localized Plasmon Surface Resonance (LSPR) eﬀect, noble metal nanoparticles have optical and electromagnetic properties that are significantly different from those of bulk materials. They provide a significnat enhancement in surface-enhanced Raman scattering (SERS) as a result. These properties make them of value in diagnostics at the molecular level by taking advantage of the enhanced optical properties of HighQuant NPs. ​4n4SERS 4x4 (right image) generates significantly higher field strength compared with the proven 4n4SERS substrates (left image). As a result, the enhancement factor is further increased. Consequently the limit of detection using 4n4SERS 4x4 is significantly reduced.
+4n4SERS Substrates Optical Properties – Distinct strong Localized Surface Plasmon Resonance (LSPR)
+The strong light-matter interaction of the metallic NPs occurs because the conduction electrons on the metal surface undergo a collective oscillation when excited by light at specific wavelengths. This oscillation results in unusually strong scattering and absorption properties. That allows metallic NPs to show effective absorbance (scattering & absorption) cross sections several times larger than their physical cross section.
+4n4SERS Substrates Optical Properties – Laser Power Scaling - SIGNAL ENHANCING HEAT SINK
+4n4SERS High Performance SERS substrates combine ease of use with with versatility and economy by offering 4 large active SERS sensitive spots embedded in a single flexible and adheseve 4n4SERS substrate, compatible to a standard microscopy slide (Figure 2). The novel SIGNAL ENHANCING HEAT SINK technology allows to utilize the full potential of high power Raman lasers in the NIR range from 785 to 1064 nm. Please ask for other wavelengths.
+4n4SERS High Performance SERS substrates feature a unique SIGNAL ENHANCING HEAT SINK technology, unlocking the full potential of most Raman lasers by scaling the damage threshold to Laser power density beyond 3 kW/cm². This corresponds for example with a laser power of > 500 mW at a spot size of 150 µm.
+4n's SIGNAL ENHANCING HEAT SINK technology allows to use the same high laser power as for standard Raman measurements, resulting in a gain of 1-2 orders of magnetude in Raman signal strength, compared to power limited SERS substrates
+Figure 2: 4 SERS active chips based on Signal Enhancing Heat Sink technology are embedded in each 4n4SERS substrate.
+Figure 3: Laser power scaling using 4n4SERS substrates. No sign of damage up to an intensity of > 3 kW/cm², allowing for full utilization of high-end Raman systems [2].
+4n SERS substrates @ 785 & 1064 nm & Quantitaive SERS
+Figure 4 above: Excellent linear correlation between the area under the Raman peak and the concentration in [1]
+Figure 4 left: results obtained at 1064 nm exitation and its capability to perform quantitative SERS [1]
+Limit of Detection for 4n SERS substrates
+Supported by the high quality and concentration of HighQuant metallic nanoparticles, 4n4SERS substrates can detect analytes in extremely low levels of concentration. As an example, 100 ppb of melamine can be detected at a power level of 50% from the Raman-laser in water (Figure 5). Again, the reproducibility of the measurement which was carried out on 3 independent test spots at the limit of detection is remarkable and shows a reproducibility of of better than +/- 13% for a confidence level of 1 x σ. This Result was achieved with the proven standard 4n4SERS substrate.
+Figure 5: Reproducibility tests compare results from the 3 different test points of one 4n4SERS substrate at the limit of detection. [2]
+The results were obtained in the project MODERNA under the Programme Beyond Europe, sponsored by the Austrian Federal Government in collaboration with the Austrian Research Promotion Agency FFG under the contract # 874147. Specific measurements were provided by [1] Mayr F, Zimmerleiter R, Farias PMA, et al. Sensitive and high laser damage threshold substrates for surface-enhanced Raman scattering based on gold and silver nanoparticles. Anal Sci Adv. 2023; 4: 335–346. https://doi.org/10.1002/ansa.202300033 and [2] RECENDT Research Center for Non Destructive Testing GmbH, Linz, Austria.
+Order Information:
+HIGH PERFORMANCE 4n4SERS substrates offer an excellent platform for obtaining the most from your Raman setup:
+SECURE / Robust and easy to use. With their EXTREMELY HIGH DAMAGE THRESHOLD, 4n4SERS substrates won't let you down, even with when full power of your Raman laser is utilized for best results
+SENSITIVE Distinct strong LOCALIZED SURFACE PLASMON RESONANCE (LSPR) effect of HighQuant nanoparticles un-locks orders of magnitude improvement of the limit of detection.
+REPRODUCIBLE results mean improved efficiency, less time and money spent due to excellent BATCH TO BATCH REPRODUCIBILITY.
+Multiple use allows you to utilize 4 individual active SERS chips embedded in each flexible and adhesive SERS stipe, compatible to a microscopy slide.
+Product data sheet & Quotation:
+For more details, please download our 4n4SERS datasheet (PDS) below or ask for a quotation.
+Custom designs and wavelengths:
+please enter in contact with us in case you are interested in different designs and Raman wave-lengths. We are glad to discuss custom versions, optimized for your application.
+Download PDS
+Quotation / Order
+Home
+Contact 4n
+Health and 4n
+VERDEQUANT
+Technology
+Products
+Services
+Partners
+Legal
+Downloads
+Jobs
+Decline All
+Accept

@@ -18,8 +18,8 @@ Appears on: PFAS. Tracked page(s): https://www.puretracelabs.com/, https://www.p
 | Positioning vs LC-MS/MS | High-throughput triage feeding confirmatory lab testing |
 | Stage | Launched Oct 2025; pilots open |
 | Notes | Non-SERS rival with same triage value-prop; MS-based broad coverage |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |

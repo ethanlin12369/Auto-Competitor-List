@@ -18,8 +18,8 @@ Appears on: SERS. Tracked page(s): https://neferkallc.com/sers-substrates/
 | Certifications | Not stated |
 | USP / Positioning | Fluorescence-quenching nano-caps + patented scalable process |
 | Notes | ALL 4 PRODUCTS SOLD OUT at baseline - watch for restock or wind-down |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK — minor edits |

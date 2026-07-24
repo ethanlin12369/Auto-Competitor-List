@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Certifications | Corporate quality systems |
 | USP / Positioning | Patented low-cost inkjet strips, low batch-to-batch variability, tied to handheld ecosystem |
 | Notes | Active line (NOT discontinued); direct competitor on strip-format SERS |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Patents | Patented inkjet process |
 | Technical Notes | General SERS applications; tied to Metrohm handheld ecosystem |
 | Website | https://m-oem.myshopify.com/pages/sers-substrates |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |

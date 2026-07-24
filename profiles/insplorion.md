@@ -18,8 +18,8 @@ Appears on: SERS. Tracked page(s): https://www.insplorion.com/en/
 | Certifications | ATEX (H2 sensors) |
 | USP / Positioning | Real-time label-free plasmonic platform; pivoted to hydrogen |
 | Notes | Not a SERS rival; landscape comparator and commercialisation case study |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |

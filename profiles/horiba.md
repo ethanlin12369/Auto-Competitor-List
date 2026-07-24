@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.horiba.com/usa/scientific/p
 | Certifications | Corporate ISO suite |
 | USP / Positioning | One-stop Raman vendor: substrate + instrument + service + global brand |
 | Notes | Controls the channel; resells Silmeco - potential OEM partner rather than head-to-head |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.horiba.com/usa/scientific/p
 | Patents | - |
 | Technical Notes | Resells Silmeco substrates; one-stop Raman vendor |
 | Website | https://www.horiba.com/usa/scientific/products/detail/action/show/Product/sers-substrates-1-6574/ |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-02 |
-| Page Status | baseline |
+| Last Checked | 2026-07-24 |
+| Page Status | OK |

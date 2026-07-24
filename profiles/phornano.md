@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.phornano.com/4n4sers
 | Certifications | Not stated |
 | USP / Positioning | Extremely high laser damage threshold (>3 kW/cm2) via signal-enhancing heat sink; monodisperse HighQuant Au/Ag nanoparticles; batch-to-batch reproducibility |
 | Notes | Austrian nanomaterials firm. Reproducibility claim overlaps directly with nanoSpec/Silmeco; heat-sink/damage-threshold angle similar to Ocean Optics. Added Jul 2026. |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
 | Last Checked | 2026-07-24 |
-| Page Status | baseline |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.phornano.com/4n4sers
 | Patents | Not stated |
 | Technical Notes | Extremely high laser damage threshold >3 kW/cm2 (>500 mW at 150 um spot); strong batch-to-batch reproducibility; ref. Mayr et al. 2023, Anal. Sci. Adv. |
 | Website | https://www.phornano.com/4n4sers |
-| Prices Seen on Page | — |
-| Stock Alerts | — |
+| Prices Seen on Page | (none listed) |
+| Stock Alerts | - |
 | Last Change Detected | — |
 | Last Checked | 2026-07-24 |
-| Page Status | baseline |
+| Page Status | OK |
