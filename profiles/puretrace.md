@@ -1,6 +1,6 @@
 # PureTrace Labs
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: PFAS. Tracked page(s): https://www.puretracelabs.com/, https://www.puretracelabs.com/technology
 
 ## PFAS list details
@@ -18,8 +18,8 @@ Appears on: PFAS. Tracked page(s): https://www.puretracelabs.com/, https://www.p
 | Positioning vs LC-MS/MS | High-throughput triage feeding confirmatory lab testing |
 | Stage | Launched Oct 2025; pilots open |
 | Notes | Non-SERS rival with same triage value-prop; MS-based broad coverage |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |

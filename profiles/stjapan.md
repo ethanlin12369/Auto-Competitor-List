@@ -1,6 +1,6 @@
 # S.T. Japan
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: SERS, TECH. Tracked page(s): https://www.stjapan.de/products-1/accessories/raman-sers-substrates/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stjapan.de/products-1/acces
 | Certifications | n/a |
 | USP / Positioning | Part of broad Raman/IR consumables catalog |
 | Notes | Reseller-style presence; minor pressure |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.stjapan.de/products-1/acces
 | Patents | Not stated |
 | Technical Notes | Academic research and prototyping |
 | Website | https://www.stjapan.de/products-1/accessories/raman-sers-substrates/ |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |

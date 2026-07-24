@@ -1,6 +1,6 @@
 # Metrohm m-oem (P-SERS)
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-substrates
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Certifications | Corporate quality systems |
 | USP / Positioning | Patented low-cost inkjet strips, low batch-to-batch variability, tied to handheld ecosystem |
 | Notes | Active line (NOT discontinued); direct competitor on strip-format SERS |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
-| Last Change Detected | 2026-07-21 |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
+| Last Change Detected | — |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://m-oem.myshopify.com/pages/sers-
 | Patents | Patented inkjet process |
 | Technical Notes | General SERS applications; tied to Metrohm handheld ecosystem |
 | Website | https://m-oem.myshopify.com/pages/sers-substrates |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
-| Last Change Detected | 2026-07-21 |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
+| Last Change Detected | — |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |

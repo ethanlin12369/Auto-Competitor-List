@@ -1,6 +1,6 @@
 # Grapheal
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: PFAS. Tracked page(s): https://grapheal.com/
 
 ## PFAS list details
@@ -18,8 +18,8 @@ Appears on: PFAS. Tracked page(s): https://grapheal.com/
 | Positioning vs LC-MS/MS | Field pre-screen vs lab LC-MS/MS |
 | Stage | Pre-commercial - launch targeted 2027 |
 | Notes | Best-funded EU field-PFAS rival; different transduction (graphene, not SERS); strong IP |
-| Prices Seen on Page | €2.5 |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |

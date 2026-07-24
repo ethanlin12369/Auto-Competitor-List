@@ -1,0 +1,180 @@
+{
+  "description": "Image sources per competitor for the nanoSpec tracker. 'image_urls' = SEM/microscopy AND product/substrate images published on each site. The GitHub workflow downloads these into images/<slug>/ each run. 'image_types' notes what kind. 'products' = current SERS/substrate product count. To add an image, drop its URL into the matching 'image_urls' list.",
+  "competitors": [
+    {
+      "name": "nanoSpec Technologies",
+      "slug": "nanospec",
+      "products": "1 (RamanEdge line)",
+      "image_types": "Internal",
+      "image_urls": []
+    },
+    {
+      "name": "Silmeco",
+      "slug": "silmeco",
+      "products": "3 (Gold / Silver / Custom SERStrate)",
+      "image_types": "2 SEM (nanopillars) + product photos + comparison spectra",
+      "image_urls": [
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-sem-leaning-pillars.webp",
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-sem-nanopillars.webp",
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-gold-silmeco.webp",
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-droplet.webp",
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-serstrate.webp",
+        "https://silmeco.com/wp-content/uploads/2024/04/sers-substrate-comparison-au.webp"
+      ]
+    },
+    {
+      "name": "SERSitive",
+      "slug": "sersitive",
+      "products": "5 SKUs",
+      "image_types": "SEM (bacteria on substrate) + product photos + application microscopy",
+      "image_urls": [
+        "https://sersitive.eu/wp-content/uploads/about_substr2.jpg",
+        "https://sersitive.eu/wp-content/uploads/about_substr1.png",
+        "https://sersitive.eu/wp-content/uploads/about_bubstr3.jpg",
+        "https://sersitive.eu/wp-content/uploads/maly-srebro.jpg",
+        "https://sersitive.eu/wp-content/uploads/maly-zloto.jpg",
+        "https://sersitive.eu/wp-content/uploads/maska-srebro.jpg",
+        "https://sersitive.eu/wp-content/uploads/maska-zloto.jpg"
+      ]
+    },
+    {
+      "name": "Nikalyte",
+      "slug": "nikalyte",
+      "products": "2 (Gold / Silver) + custom",
+      "image_types": "Product/highlight + nanoparticle microscopy on applications page",
+      "image_urls": [
+        "https://www.nikalyte.com/wp-content/uploads/NIkalyte-SERS-Highlight-1.webp"
+      ]
+    },
+    {
+      "name": "CODIXX (senSERS)",
+      "slug": "codixx",
+      "products": "1 (packs of 4/25/49)",
+      "image_types": "JS site - images not machine-readable; check manually",
+      "image_urls": []
+    },
+    {
+      "name": "HORIBA",
+      "slug": "horiba",
+      "products": "1 (resold Silmeco Au/Ag)",
+      "image_types": "Product photos + comparison spectra",
+      "image_urls": [
+        "https://static.horiba.com/fileadmin/Horiba/_processed_/9/4/csm_sers-substrate-droplet_f6b9d08b54.jpg",
+        "https://static.horiba.com/fileadmin/Horiba/_processed_/b/8/csm_sers-substrate-gold-serstrate_e6df11fe89.jpg",
+        "https://static.horiba.com/fileadmin/Horiba/_processed_/c/3/csm_sers-substrate-gold-comparison_0b6c8748ea.jpg",
+        "https://static.horiba.com/fileadmin/Horiba/_processed_/e/2/csm_sers-substrate-silver-comparison_c711dd9040.jpg"
+      ]
+    },
+    {
+      "name": "Thorlabs (RCT4M)",
+      "slug": "thorlabs",
+      "products": "1 (RCT4M)",
+      "image_types": "JS site - product image behind JavaScript; check manually",
+      "image_urls": []
+    },
+    {
+      "name": "Metrohm m-oem (P-SERS)",
+      "slug": "metrohm",
+      "products": "2 (Gold / Silver P-SERS)",
+      "image_types": "Product photo (P-SERS strips)",
+      "image_urls": [
+        "https://m-oem.myshopify.com/cdn/shop/files/P-SERS_2000x.png"
+      ]
+    },
+    {
+      "name": "Ocean Optics",
+      "slug": "oceanoptics",
+      "products": "3 (RAM-SERS-LP-1 / MS-1 / MS-5)",
+      "image_types": "Product photo",
+      "image_urls": [
+        "https://www.oceanoptics.com/wp-content/uploads/2025/10/6_RAM-SERS-LP-1_1024x576.jpg"
+      ]
+    },
+    {
+      "name": "Nefer Ka",
+      "slug": "neferka",
+      "products": "4 SKUs (all SOLD OUT)",
+      "image_types": "Product photo + Raman spectra (no SEM)",
+      "image_urls": [
+        "https://cdn11.bigcommerce.com/s-aupqwye0te/images/stencil/1280x1280/f/packof5-au-sers-10mm__43212.original.jpg",
+        "https://cdn11.bigcommerce.com/s-aupqwye0te/product_images/uploaded_images/lowbg.jpg",
+        "https://cdn11.bigcommerce.com/s-aupqwye0te/product_images/uploaded_images/uniform.jpg"
+      ]
+    },
+    {
+      "name": "Wave Lumina",
+      "slug": "wavelumina",
+      "products": "1 (field screening system, pilot)",
+      "image_types": "SERS response figures + workflow diagram (no SEM)",
+      "image_urls": [
+        "https://storage.googleapis.com/ployai/f98a944e-7467-484d-999c-b7bdda2b1ed4/user/13c8f892-figure4-roi-brokenaxis-v9.png",
+        "https://storage.googleapis.com/ployai/f98a944e-7467-484d-999c-b7bdda2b1ed4/user/84668655-figure-1-revised.png"
+      ]
+    },
+    {
+      "name": "StellarNet",
+      "slug": "stellarnet",
+      "products": "1 (paper-based Au)",
+      "image_types": "JS/anti-bot site - check manually",
+      "image_urls": []
+    },
+    {
+      "name": "Real-Time Analyzers",
+      "slug": "rta",
+      "products": "3 core formats + 2 kits",
+      "image_types": "Schematic + product photos (vials/plates/capillaries)",
+      "image_urls": [
+        "https://www.rta.biz/wp-content/uploads/2014/09/SERS_schematic.png",
+        "https://www.rta.biz/wp-content/uploads/2015/09/96well_microplate2.jpg",
+        "https://www.rta.biz/wp-content/uploads/2015/09/SERS-Cap-wSyringe.jpg"
+      ]
+    },
+    {
+      "name": "S.T. Japan",
+      "slug": "stjapan",
+      "products": "1 (gold nanorod array, 2 sizes)",
+      "image_types": "Product photo + SERS technique diagram",
+      "image_urls": [
+        "https://image.jimcdn.com/app/cms/image/transf/none/path/s919aad075de7cc93/image/i28dba2304f3d9ec4/version/1577709372/image.jpg",
+        "https://image.jimcdn.com/app/cms/image/transf/none/path/s919aad075de7cc93/image/ic96c057605631050/version/1577709354/image.png"
+      ]
+    },
+    {
+      "name": "SI Scientific Instruments",
+      "slug": "si-gmbh",
+      "products": "1 (resold substrate)",
+      "image_types": "Product photo (no clean URL captured) - check manually",
+      "image_urls": []
+    },
+    {
+      "name": "Insplorion",
+      "slug": "insplorion",
+      "products": "0 SERS substrates (H2 sensors)",
+      "image_types": "N/A - not a SERS-substrate maker",
+      "image_urls": []
+    },
+    {
+      "name": "Grapheal",
+      "slug": "grapheal",
+      "products": "1 PFAS (PFAST) + graphene lines",
+      "image_types": "Product/technology renders (no SEM)",
+      "image_urls": [
+        "https://content.grapheal.com/assets/f3011a0f-9998-4041-95d4-b038ae82514b"
+      ]
+    },
+    {
+      "name": "PureTrace Labs",
+      "slug": "puretrace",
+      "products": "1 screening service",
+      "image_types": "Marketing images only (no SEM/product substrate)",
+      "image_urls": []
+    },
+    {
+      "name": "PHORNANO",
+      "slug": "phornano",
+      "products": "2 (4n4SERS Au & Ag) + HighQuant nanoparticles",
+      "image_types": "JS/Wix site - images not machine-readable; check manually",
+      "image_urls": []
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Wave Lumina
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.com/pfas-field-screening
 
 ## PFAS list details
@@ -18,8 +18,8 @@ Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.c
 | Positioning vs LC-MS/MS | On-site triage ahead of confirmatory LC-MS/MS |
 | Stage | Pilot - accepting samples; launch 2027 |
 | Notes | MOST direct analogue to SpectraSense (same SERS+AI triage thesis); US-focused |
-| Prices Seen on Page | $305 |
-| Stock Alerts | - |
-| Last Change Detected | 2026-07-22 |
-| Last Checked | 2026-07-23 |
-| Page Status | OK — minor edits |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
+| Last Change Detected | — |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |

@@ -1,6 +1,6 @@
 # Real-Time Analyzers
 
-*Auto-generated profile — last updated 2026-07-23.*
+*Auto-generated profile — last updated 2026-07-24.*
 Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-products/
 
 ## SERS list details
@@ -18,11 +18,11 @@ Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-produ
 | Certifications | n/a |
 | USP / Positioning | Sol-gel-in-vessel format for liquid handling |
 | Notes | Different form factor - limited direct overlap |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK — minor edits |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |
 
 ## TECH list details
 
@@ -35,8 +35,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.rta.biz/products/sers-produ
 | Patents | Not stated |
 | Technical Notes | Targets small-scale applications with plasmonic design |
 | Website | http://www.rta.biz/products/sers-products/ |
-| Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Prices Seen on Page | — |
+| Stock Alerts | — |
 | Last Change Detected | — |
-| Last Checked | 2026-07-23 |
-| Page Status | OK — minor edits |
+| Last Checked | 2026-07-02 |
+| Page Status | baseline |
