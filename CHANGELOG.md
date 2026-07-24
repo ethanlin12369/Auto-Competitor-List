@@ -4,6 +4,14 @@
 
 ### [SERS][TECH] Thorlabs (RCT4M) — page changed (https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M)
 Lines starting with `-` were removed, `+` were added:
+- `+Discontinued`
+- `+RCT4M was discontinued on March 26, 2026.`
+- `+Discontinued Date`
+
+## 2026-07-24
+
+### [SERS][TECH] Thorlabs (RCT4M) — page changed (https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M)
+Lines starting with `-` were removed, `+` were added:
 - `-Discontinued`
 - `-RCT4M was discontinued on March 26, 2026.`
 - `-Discontinued Date`

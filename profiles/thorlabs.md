@@ -19,7 +19,7 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | USP / Positioning | Single-vendor convenience + enormous photonics customer base |
 | Notes | One token SERS SKU in a vast catalog; beatable on specialisation |
 | Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Stock Alerts | discontinued |
 | Last Change Detected | 2026-07-24 |
 | Last Checked | 2026-07-24 |
 | Page Status | OK — CHANGED |
@@ -36,7 +36,7 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | Technical Notes | ~2 years in market; single SKU |
 | Website | https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M |
 | Prices Seen on Page | (none listed) |
-| Stock Alerts | - |
+| Stock Alerts | discontinued |
 | Last Change Detected | 2026-07-24 |
 | Last Checked | 2026-07-24 |
 | Page Status | OK — CHANGED |

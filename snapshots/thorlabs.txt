@@ -17,6 +17,49 @@ Forward Cart
 Click on the retrieval code to copy it to clipboard.
 Alternatively, provide an email address for us to send the code to.
 Enter Email Address
+Applications
+RCT4M
+Surface-Enhanced Raman Spectroscopy Substrate, Gold-Coated, 4.5 mm x 4.5 mm
+CAD PDF
+RCT4M
+Discontinued
+Surface-Enhanced Raman Spectroscopy Substrate, Gold-Coated, 4.5 mm x 4.5 mm
+RCT4M was discontinued on March 26, 2026.
+View its last web presentation.
+Submit
+Last Web Presentation
+Open
+Release Date
+June 11, 2024
+Discontinued Date
+March 26, 2026
+Support Documents
+Download All
+CAD PDF
+Open
+CAD DXF
+Download
+Solidworks
+Download
+eDrawing / 3D Model
+Open
+Step
+Download
+Catalog Presentation
+Open
+Warranty
+Two year warranty. Incorporated light sources are warrantied for the lesser of one year or (to the extent applicable) the number of hours stated in the specifications.
+See Thorlabs' General Terms and Conditions.
+Compliance Info
+Compliance-Related Questions? Email compliance@thorlabs.com.
+Register for Product Notifications
+Product notifications require a website account.
+Create Account
+Log In
+Product Feedback
+We welcome your thoughts!
+Give Feedback
+Submit Feedback
 Sales
 1-973-300-3000
 sales@thorlabs.com
