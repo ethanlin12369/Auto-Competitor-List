@@ -1,6 +1,6 @@
 # Thorlabs (RCT4M)
 
-*Auto-generated profile — last updated 2026-07-24.*
+*Auto-generated profile — last updated 2026-07-25.*
 Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M
 
 ## SERS list details
@@ -21,8 +21,8 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | discontinued |
 | Last Change Detected | 2026-07-24 |
-| Last Checked | 2026-07-24 |
-| Page Status | OK — CHANGED |
+| Last Checked | 2026-07-25 |
+| Page Status | OK |
 
 ## TECH list details
 
@@ -38,5 +38,5 @@ Appears on: SERS, TECH. Tracked page(s): https://www.thorlabs.com/thorproduct.cf
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | discontinued |
 | Last Change Detected | 2026-07-24 |
-| Last Checked | 2026-07-24 |
-| Page Status | OK — CHANGED |
+| Last Checked | 2026-07-25 |
+| Page Status | OK |
