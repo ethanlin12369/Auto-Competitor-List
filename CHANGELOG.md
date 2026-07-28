@@ -1,5 +1,12 @@
 # Competitor Change Log
 
+## 2026-07-28
+
+### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
+Lines starting with `-` were removed, `+` were added:
+- `+Price on request`
+- `+Price on request`
+
 ## 2026-07-24
 
 ### [SERS][TECH] Thorlabs (RCT4M) — page changed (https://www.thorlabs.com/thorproduct.cfm?partnumber=RCT4M)
