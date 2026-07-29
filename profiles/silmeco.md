@@ -1,6 +1,6 @@
 # Silmeco
 
-*Auto-generated profile — last updated 2026-07-28.*
+*Auto-generated profile — last updated 2026-07-29.*
 Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, https://silmeco.com/p/gold-serstrate/
 
 ## SERS list details
@@ -21,8 +21,8 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-28 |
-| Page Status | OK |
+| Last Checked | 2026-07-29 |
+| Page Status | OK — minor edits |
 
 ## PFAS list details
 
@@ -42,8 +42,8 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-28 |
-| Page Status | OK |
+| Last Checked | 2026-07-29 |
+| Page Status | OK — minor edits |
 
 ## TECH list details
 
@@ -59,5 +59,5 @@ Appears on: SERS, PFAS, TECH. Tracked page(s): https://silmeco.com/products/, ht
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-28 |
-| Page Status | OK |
+| Last Checked | 2026-07-29 |
+| Page Status | OK — minor edits |
