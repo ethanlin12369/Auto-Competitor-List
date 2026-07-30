@@ -1,6 +1,6 @@
 # SERSitive
 
-*Auto-generated profile — last updated 2026-07-29.*
+*Auto-generated profile — last updated 2026-07-30.*
 Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 
 ## SERS list details
@@ -21,7 +21,7 @@ Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 | Prices Seen on Page | €0.00; €23.00; €28.00; €50.00; €60.00; €35.00 |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-29 |
+| Last Checked | 2026-07-30 |
 | Page Status | OK |
 
 ## TECH list details
@@ -38,5 +38,5 @@ Appears on: SERS, TECH. Tracked page(s): https://sersitive.eu/shop/
 | Prices Seen on Page | €0.00; €23.00; €28.00; €50.00; €60.00; €35.00 |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-07-29 |
+| Last Checked | 2026-07-30 |
 | Page Status | OK |
