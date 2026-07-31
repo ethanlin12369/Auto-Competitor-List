@@ -1,6 +1,6 @@
 # Wave Lumina
 
-*Auto-generated profile — last updated 2026-07-30.*
+*Auto-generated profile — last updated 2026-07-31.*
 Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.com/pfas-field-screening
 
 ## PFAS list details
@@ -21,5 +21,5 @@ Appears on: PFAS. Tracked page(s): https://wavelumina.com/, https://wavelumina.c
 | Prices Seen on Page | $305 |
 | Stock Alerts | - |
 | Last Change Detected | 2026-07-22 |
-| Last Checked | 2026-07-30 |
+| Last Checked | 2026-07-31 |
 | Page Status | OK |
