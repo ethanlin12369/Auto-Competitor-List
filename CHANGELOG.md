@@ -1,5 +1,14 @@
 # Competitor Change Log
 
+## 2026-08-02
+
+### Fetch problems (page unreachable — possible outage, block, or site redesign)
+- SI Scientific Instruments: https://www.si-gmbh.de/en/produkte/spektrometer/substrate/sers/ (Error)
+- Insplorion: https://www.insplorion.com/en/ (Error)
+- Grapheal: https://grapheal.com/ (Error)
+- PureTrace Labs: https://www.puretracelabs.com/ (Error)
+- PureTrace Labs: https://www.puretracelabs.com/technology (Error)
+
 ## 2026-07-29
 
 ### [SERS][TECH] Metrohm m-oem (P-SERS) — page changed (https://m-oem.myshopify.com/pages/sers-substrates)
