@@ -1,6 +1,6 @@
 # SI Scientific Instruments
 
-*Auto-generated profile — last updated 2026-08-03.*
+*Auto-generated profile — last updated 2026-08-04.*
 Appears on: SERS. Tracked page(s): https://www.si-gmbh.de/en/produkte/spektrometer/substrate/sers/
 
 ## SERS list details
@@ -21,5 +21,5 @@ Appears on: SERS. Tracked page(s): https://www.si-gmbh.de/en/produkte/spektromet
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-08-03 |
+| Last Checked | 2026-08-04 |
 | Page Status | OK |

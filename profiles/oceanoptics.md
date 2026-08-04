@@ -1,6 +1,6 @@
 # Ocean Optics
 
-*Auto-generated profile — last updated 2026-08-03.*
+*Auto-generated profile — last updated 2026-08-04.*
 Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories/sampling-accessories/sers-substrates/
 
 ## SERS list details
@@ -21,7 +21,7 @@ Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-08-03 |
+| Last Checked | 2026-08-04 |
 | Page Status | OK |
 
 ## TECH list details
@@ -38,5 +38,5 @@ Appears on: SERS, TECH. Tracked page(s): https://www.oceanoptics.com/accessories
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-08-03 |
+| Last Checked | 2026-08-04 |
 | Page Status | OK |
