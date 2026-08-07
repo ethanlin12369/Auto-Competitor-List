@@ -1,6 +1,6 @@
 # nanoSpec Technologies
 
-*Auto-generated profile — last updated 2026-08-06.*
+*Auto-generated profile — last updated 2026-08-07.*
 Appears on: SERS. Tracked page(s): https://www.nanospec.tech/
 
 ## SERS list details
@@ -21,5 +21,5 @@ Appears on: SERS. Tracked page(s): https://www.nanospec.tech/
 | Prices Seen on Page | (none listed) |
 | Stock Alerts | - |
 | Last Change Detected | — |
-| Last Checked | 2026-08-06 |
+| Last Checked | 2026-08-07 |
 | Page Status | OK |
