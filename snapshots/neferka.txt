@@ -2,5 +2,5 @@
 neferkallc.com
 Performing security verification
 This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.
-Ray ID: a27489d7e97d2cab
+Ray ID: a27ca6140e196c19
 Performance and Security by Cloudflare
